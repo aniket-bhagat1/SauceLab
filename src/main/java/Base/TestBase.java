@@ -16,5 +16,6 @@ public class TestBase {
 		driver.manage().window().maximize();
 		driver.manage().deleteAllCookies();
 		driver.get(ReadData.readPropertyFile("url"));
+		// I already push the code to git repo
 	}
 }
