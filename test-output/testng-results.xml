@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10739" started-at="2023-01-30T18:50:29 IST" finished-at="2023-01-30T18:50:40 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10739" started-at="2023-01-30T18:50:29 IST" finished-at="2023-01-30T18:50:40 IST">
+      <class name="TestCases.FinishPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestCases.FinishPageTest@42f93a98]" name="setup" is-config="true" duration-ms="6414" started-at="2023-01-30T18:50:29 IST" finished-at="2023-01-30T18:50:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifySwagBotImg()[pri:0, instance:TestCases.FinishPageTest@42f93a98]" name="verifySwagBotImg" duration-ms="128" started-at="2023-01-30T18:50:36 IST" finished-at="2023-01-30T18:50:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySwagBotImg -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestCases.FinishPageTest@42f93a98]" name="closeBrowser" is-config="true" duration-ms="272" started-at="2023-01-30T18:50:36 IST" finished-at="2023-01-30T18:50:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestCases.FinishPageTest@42f93a98]" name="setup" is-config="true" duration-ms="3687" started-at="2023-01-30T18:50:36 IST" finished-at="2023-01-30T18:50:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyText()[pri:0, instance:TestCases.FinishPageTest@42f93a98]" name="verifyText" duration-ms="48" started-at="2023-01-30T18:50:40 IST" finished-at="2023-01-30T18:50:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyText -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestCases.FinishPageTest@42f93a98]" name="closeBrowser" is-config="true" duration-ms="135" started-at="2023-01-30T18:50:40 IST" finished-at="2023-01-30T18:50:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestCases.FinishPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
